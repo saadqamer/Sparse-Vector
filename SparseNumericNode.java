@@ -1,4 +1,4 @@
-package A1Q1;
+
 /**
  * A list node that contains a sparse numeric element.
  *
