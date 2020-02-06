@@ -4,7 +4,6 @@ package A1Q1;
  *
  * Represents a (double) data value associated with a (long) position.
  * Suitable for representing a sparse vector.
- * @author jameselder
  */
 public class SparseNumericElement {
 
