@@ -1,5 +1,3 @@
-package A1Q1;
-
 import java.util.*;
 
 import A1Q1.SparseNumericElement;
